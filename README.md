@@ -1,6 +1,7 @@
 # push_swap
 
-<h1>Mandatory<\h1>
+<h1>Mandatory
+  
   <pre>
   • The game is composed of 2 stacks named a and b.
   • To start with:
@@ -29,4 +30,5 @@
           becomes the first one.
     rrr : rra and rrb at the same time.
   </pre>
+  
   <h2>Evaluation grade: 94/100</h2>
